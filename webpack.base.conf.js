@@ -11,7 +11,8 @@ const PATHS = {
 };
 
 // url list
-let htmlUrl = 'index';
+// let htmlUrl = 'index';
+let htmlUrl = 'blog-inner';
 
 
 
